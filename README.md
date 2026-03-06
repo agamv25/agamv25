@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Agam 👋
 
-<!--
-**agamv25/agamv25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Bachelor of Software Engineering (Honours) student at Deakin University  
+🤖 Minor in Artificial Intelligence  
+🔬 Researching Explainable AI (XAI) and interpretable machine learning
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working on an Honours thesis on **Integrating Domain Knowledge into SHAP for Healthcare Decision Support**
+- Interested in **Machine Learning, Explainable AI, and Data Science**
+- Experience with **full-stack development and machine learning workflows**
+- Looking to start my career in **AI, data science, or analytics**
+
+## Tech Stack
+
+Languages:
+- Python
+- Java
+- TypeScript
+- Ruby
+
+Frameworks & Tools:
+- React
+- Angular
+- Ruby on Rails
+- TensorFlow / Scikit-learn
+- Git / GitHub
+
+## Current Focus
+
+- Explainable AI research
+- Machine learning models
+- Data analysis and model interpretation
+
+## Connect with Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: agamv2525@gmail.com
