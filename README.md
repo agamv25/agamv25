@@ -34,5 +34,5 @@ Frameworks & Tools:
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/agam-singh-5864402a7/
 - Email: agamv2525@gmail.com
